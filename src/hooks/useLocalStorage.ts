@@ -1,10 +1,7 @@
 import { useCallback, useEffect, useState } from 'react';
+import isBrowser from '../utils/isBrowser';
 
 type SetValue<T> = T | ((prev: T) => T);
-
-function isBrowser(): boolean {
-  return typeof window !== 'undefined';
-}
 
 export function useLocalStorage<T>(
   key: string,
