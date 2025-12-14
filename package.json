@@ -20,7 +20,7 @@
   "author": "Gautam Suthar <iamgautamsuthar@outlook.com> (https://github.com/callmegautam)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/callmegautam/hookstack.gits"
+    "url": "git+https://github.com/callmegautam/hookstack.git"
   },
   "main": "dist/index.js",
   "module": "dist/index.mjs",
