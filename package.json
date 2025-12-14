@@ -1,6 +1,6 @@
 {
   "name": "hookstack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A growing collection of practical, production-ready React hooks built for modern React and Node.js, with a focus on simplicity, correctness, and real-world reuse.",
   "keywords": [
     "react",
