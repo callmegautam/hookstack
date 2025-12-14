@@ -1,8 +1,21 @@
 {
   "name": "hookstack",
   "version": "0.0.1",
-  "description": "",
-  "keywords": [],
+  "description": "A growing collection of practical, production-ready React hooks built for modern React and Node.js, with a focus on simplicity, correctness, and real-world reuse.",
+  "keywords": [
+    "react",
+    "react-hooks",
+    "hooks",
+    "custom-hooks",
+    "react-utils",
+    "react-library",
+    "frontend",
+    "typescript",
+    "web",
+    "ui",
+    "state",
+    "utilities"
+  ],
   "license": "MIT",
   "author": "Gautam Suthar <iamgautamsuthar@outlook.com> (https://github.com/callmegautam)",
   "repository": {
